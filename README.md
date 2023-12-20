@@ -27,7 +27,7 @@ This Github provides instructions to get started with the NFC module.
 
 
 ### Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/ReadPi_RFID_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Design Data](https://github.com/sbcshop/NFC_Breakout_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/ReadPi_RFID_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [ReadPi RFID Getting Started](https://github.com/sbcshop/ReadPi_RFID_Software) - This repo contains ReadPi RFID Getting Started and Sample Codes.
 
